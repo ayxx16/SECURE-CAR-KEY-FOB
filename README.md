@@ -114,8 +114,8 @@ The system was tested across multiple stages:
 
 ## Team Members
 
-- Aldana Khalid Altamimi
-- Amna Abdulaziz Alobaidli
+- Amna Abdulaziz AlObaidli
+- Al-Dana Khalid AlTamimi
 - Latifa Ali Albuenain
 - Muneera Abdulla Alkubaisi
 
